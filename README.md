@@ -1,2 +1,4 @@
-# Info_2026-27
-Java
+# Esercizi Java
+Qua verranno messi gli es durante l'anno
+
+## Primo esercizio 
