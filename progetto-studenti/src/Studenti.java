@@ -5,8 +5,11 @@ public class Studenti {
     private double peso;
     private double altezza;
 
-    public Studenti (String name, String surname, int age, float height){
-
-
+    public Studente() {
+        this.nome = "";
+        this.cognome = "";
+        this.eta = 0;
+        this.altezza = 0.0;
+        this.peso = 0.0;
     }
 }
