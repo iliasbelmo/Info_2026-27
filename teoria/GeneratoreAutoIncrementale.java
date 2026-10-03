@@ -1,5 +1,5 @@
 public class GeneratoreAutoIncrementale (){
-    Stringh prefisso;
-    int cifre;
-    int numero;
+    private Stringh prefisso;
+    private int cifre;
+    private int numero;
 }
