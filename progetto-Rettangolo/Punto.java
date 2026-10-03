@@ -35,3 +35,8 @@ public class Punto {
         double dy = this.y - p.y;
         return Math.sqrt(Math.pow(dx, 2) + Math.pow(dy, 2));
     }
+    @Override
+    public String toString() {
+        return "(" + this.x + ", " + this.y + ")";
+    }
+}
