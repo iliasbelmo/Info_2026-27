@@ -17,4 +17,5 @@ public class Main {
         System.out.println(rettangolo.toString());
         System.out.println("Perimetro: " + rettangolo.calcolaPerimetro());
         System.out.println("Area: " + rettangolo.calcolaArea());
-        }
+    }
+}
